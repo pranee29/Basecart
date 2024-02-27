@@ -1,0 +1,162 @@
+[
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71b9"
+        },
+        "model": "iPhone X",
+        "price": 23685,
+        "review": 4.2
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71ba"
+        },
+        "model": "Samsung Galaxy S10",
+        "price": 23597,
+        "review": 4.7
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71bb"
+        },
+        "model": "Google Pixel 3",
+        "price": 36468,
+        "review": 3.1
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71bc"
+        },
+        "model": "OnePlus 7 Pro",
+        "price": 48113,
+        "review": 3.7
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71bd"
+        },
+        "model": "LG G8 ThinQ",
+        "price": 56576,
+        "review": 3.8
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71be"
+        },
+        "model": "Huawei P30 Pro",
+        "price": 18252,
+        "review": 3.1
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71bf"
+        },
+        "model": "Motorola Moto G7",
+        "price": 32704,
+        "review": 4.9
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c0"
+        },
+        "model": "Sony Xperia XZ3",
+        "price": 28701,
+        "review": 3.8
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c1"
+        },
+        "model": "Nokia 9 PureView",
+        "price": 33293,
+        "review": 4
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c2"
+        },
+        "model": "Xiaomi Mi 9",
+        "price": 22126,
+        "review": 4.9
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c3"
+        },
+        "model": "HTC U12+",
+        "price": 63305,
+        "review": 3.2
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c4"
+        },
+        "model": "BlackBerry Key2",
+        "price": 34047,
+        "review": 3.3
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c5"
+        },
+        "model": "Oppo Reno",
+        "price": 44494,
+        "review": 4.4
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c6"
+        },
+        "model": "Vivo V15 Pro",
+        "price": 21188,
+        "review": 4.5
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c7"
+        },
+        "model": "Lenovo Z6 Pro",
+        "price": 40062,
+        "review": 4.8
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c8"
+        },
+        "model": "Asus ZenFone 6",
+        "price": 37806,
+        "review": 4.8
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71c9"
+        },
+        "model": "ZTE Axon 10 Pro",
+        "price": 51501,
+        "review": 4.2
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71ca"
+        },
+        "model": "Alcatel 3L",
+        "price": 46628,
+        "review": 4
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71cb"
+        },
+        "model": "Realme 3 Pro",
+        "price": 13963,
+        "review": 3.5
+    },
+    {
+        "_id": {
+            "$oid": "65d9d1cee5ba0d7d0eea71cc"
+        },
+        "model": "Honor 20",
+        "price": 28529,
+        "review": 3.1
+    }
+]
